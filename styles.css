@@ -1,0 +1,24 @@
+.paragrafs {
+  background-color: #faebd6;
+  width: 60%;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-left: 15px;
+  padding-right: 25px;
+}
+h2 {
+  font-size: 40px;
+  color: #ff0000;
+}
+
+.paragraf-1 {
+  color: #a42423;
+}
+
+.paragraf-2 {
+  color: #00008f;
+}
+
+.paragrafs p {
+  font-size: 30px;
+}
